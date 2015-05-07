@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/selenium-java-2.45.0/selenium-2.45.0/selenium-java-2.45.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/selenium-java-2.45.0/selenium-2.45.0/selenium-java-2.45.0-srcs.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/selenium-server-standalone-2.45.0 (2).jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/reportng-1.1.4/reportng-1.1.4/reportng-1.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/reportng-1.1.4/reportng-1.1.4/velocity-dep-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/guice-3.0-src/guice-3.0-src/lib/aopalliance.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/guice-3.0-src/guice-3.0-src/lib/javax.inject.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/guice-3.0/guice-3.0/aopalliance.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/guice-3.0/guice-3.0/guice-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/guice-3.0/guice-3.0/guice-assistedinject-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/guice-3.0/guice-3.0/guice-grapher-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/guice-3.0/guice-3.0/guice-jmx-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/guice-3.0/guice-3.0/guice-jndi-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/guice-3.0/guice-3.0/guice-multibindings-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/guice-3.0/guice-3.0/guice-persist-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/guice-3.0/guice-3.0/guice-servlet-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/guice-3.0/guice-3.0/guice-spring-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/guice-3.0/guice-3.0/guice-struts2-plugin-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/guice-3.0/guice-3.0/guice-throwingproviders-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/guice-3.0/guice-3.0/javax.inject.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/jtds-1.3.1-dist/jtds-1.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/com.sun.rowset.jar/com.sun.rowset.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/microsoft-mssqlserver.jar/microsoft-mssqlserver.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/msbase.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/msutil.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/patch07/Downloads/sqljdbc4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Program Files (x86)/Java/jre7/bin"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/patch07/Downloads/poi-bin-3.12-beta1-20150228.tar/poi-3.12-beta1/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/patch07/Downloads/poi-bin-3.11-20141221.tar/poi-3.11/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/patch07/Downloads/poi-bin-3.11-20141221.tar/poi-3.11/poi-examples-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/patch07/Downloads/poi-bin-3.11-20141221.tar/poi-3.11/poi-excelant-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/patch07/Downloads/poi-bin-3.11-20141221.tar/poi-3.11/poi-ooxml-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/patch07/Downloads/poi-bin-3.11-20141221.tar/poi-3.11/poi-ooxml-schemas-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/patch07/Downloads/poi-bin-3.11-20141221.tar/poi-3.11/poi-scratchpad-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/patch07/Downloads/jexcelapi_2_6_12/jexcelapi/jxl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
